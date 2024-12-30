@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ABDELLAH\\Desktop\\Formation e learning\\Partage sur GitHub\\Repositories\\Projects\\Bank_FunctionalProgramming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F9AED7-5224-4445-BE12-E60E4FB4EB80}|Bank_FunctionalProgramming\\Bank_FunctionalProgramming.vcxproj|C:\\Users\\ABDELLAH\\Desktop\\Formation e learning\\Partage sur GitHub\\Repositories\\Projects\\Bank_FunctionalProgramming\\Bank_FunctionalProgramming\\Bank_FunctionalProgramming.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7F9AED7-5224-4445-BE12-E60E4FB4EB80}|Bank_FunctionalProgramming\\Bank_FunctionalProgramming.vcxproj|solutionrelative:Bank_FunctionalProgramming\\Bank_FunctionalProgramming.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank_FunctionalProgramming.cpp",
+              "DocumentMoniker": "C:\\Users\\ABDELLAH\\Desktop\\Formation e learning\\Partage sur GitHub\\Repositories\\Projects\\Bank_FunctionalProgramming\\Bank_FunctionalProgramming\\Bank_FunctionalProgramming.cpp",
+              "RelativeDocumentMoniker": "Bank_FunctionalProgramming\\Bank_FunctionalProgramming.cpp",
+              "ToolTip": "C:\\Users\\ABDELLAH\\Desktop\\Formation e learning\\Partage sur GitHub\\Repositories\\Projects\\Bank_FunctionalProgramming\\Bank_FunctionalProgramming\\Bank_FunctionalProgramming.cpp",
+              "RelativeToolTip": "Bank_FunctionalProgramming\\Bank_FunctionalProgramming.cpp",
+              "ViewState": "AgIAAPQCAAAAAAAAAAAwwCQDAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-30T16:01:10.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
