@@ -1,0 +1,24 @@
+﻿  Project_Utility_Library.cpp
+C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\10_Utility_Library\Solution_Utility_Library\Project_Utility_Library\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project_Utility_Library.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\10_Utility_Library\Solution_Utility_Library\Project_Utility_Library\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project_Utility_Library.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\10_Utility_Library\Solution_Utility_Library\Project_Utility_Library\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project_Utility_Library.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\10_Utility_Library\Solution_Utility_Library\Project_Utility_Library\clsString.h(197,28): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project_Utility_Library.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\10_Utility_Library\Solution_Utility_Library\Project_Utility_Library\clsString.h(328,28): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project_Utility_Library.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\10_Utility_Library\Solution_Utility_Library\Project_Utility_Library\clsString.h(376,20): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project_Utility_Library.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\10_Utility_Library\Solution_Utility_Library\Project_Utility_Library\clsUtil.h(67,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Project_Utility_Library.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\10_Utility_Library\Solution_Utility_Library\Project_Utility_Library\clsUtil.h(73,1): warning C4715: 'clsUtil::GetRandomCharacter': not all control paths return a value
+  Project_Utility_Library.vcxproj -> C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\10_Utility_Library\Solution_Utility_Library\x64\Debug\Project_Utility_Library.exe

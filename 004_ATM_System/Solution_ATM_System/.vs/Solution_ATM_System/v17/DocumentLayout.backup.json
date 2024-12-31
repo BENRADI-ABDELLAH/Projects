@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ABDELLAH\\Desktop\\Formation e learning\\Partage sur GitHub\\Repositories\\Projects\\Bank_System\\03_ATM_System\\Solution_ATM_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59195E3C-E0FE-4F8A-85C2-8C9F645EAF77}|Project_ATM_System\\Project_ATM_System.vcxproj|C:\\Users\\ABDELLAH\\Desktop\\Formation e learning\\Partage sur GitHub\\Repositories\\Projects\\Bank_System\\03_ATM_System\\Solution_ATM_System\\Project_ATM_System\\Project_ATM_System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59195E3C-E0FE-4F8A-85C2-8C9F645EAF77}|Project_ATM_System\\Project_ATM_System.vcxproj|solutionrelative:Project_ATM_System\\Project_ATM_System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project_ATM_System.cpp",
+              "DocumentMoniker": "C:\\Users\\ABDELLAH\\Desktop\\Formation e learning\\Partage sur GitHub\\Repositories\\Projects\\Bank_System\\03_ATM_System\\Solution_ATM_System\\Project_ATM_System\\Project_ATM_System.cpp",
+              "RelativeDocumentMoniker": "Project_ATM_System\\Project_ATM_System.cpp",
+              "ToolTip": "C:\\Users\\ABDELLAH\\Desktop\\Formation e learning\\Partage sur GitHub\\Repositories\\Projects\\Bank_System\\03_ATM_System\\Solution_ATM_System\\Project_ATM_System\\Project_ATM_System.cpp",
+              "RelativeToolTip": "Project_ATM_System\\Project_ATM_System.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAN8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-31T13:15:47.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

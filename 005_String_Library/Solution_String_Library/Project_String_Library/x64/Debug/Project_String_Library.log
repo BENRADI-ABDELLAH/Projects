@@ -1,0 +1,20 @@
+﻿  Project_String_Library.cpp
+C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\07_String_Library\Solution_String_Library\Project_String_Library\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project_String_Library.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\07_String_Library\Solution_String_Library\Project_String_Library\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project_String_Library.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\07_String_Library\Solution_String_Library\Project_String_Library\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project_String_Library.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\07_String_Library\Solution_String_Library\Project_String_Library\clsString.h(197,28): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project_String_Library.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\07_String_Library\Solution_String_Library\Project_String_Library\clsString.h(328,28): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project_String_Library.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\07_String_Library\Solution_String_Library\Project_String_Library\clsString.h(376,20): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project_String_Library.cpp')
+  
+  Project_String_Library.vcxproj -> C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\07_String_Library\Solution_String_Library\x64\Debug\Project_String_Library.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ABDELLAH\\Desktop\\Formation e learning\\Partage sur GitHub\\Repositories\\Projects\\05_Bank_Sytem_(Using_Functional_Programming)\\Sol_BankSystem_(Using_FP)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26A87C42-3D00-4847-B42E-72E03393213B}|Proj_BankSystem_FP\\Proj_BankSystem_FP.vcxproj|C:\\Users\\ABDELLAH\\Desktop\\Formation e learning\\Partage sur GitHub\\Repositories\\Projects\\05_Bank_Sytem_(Using_Functional_Programming)\\Sol_BankSystem_(Using_FP)\\Proj_BankSystem_FP\\Proj_BankSystem_FP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26A87C42-3D00-4847-B42E-72E03393213B}|Proj_BankSystem_FP\\Proj_BankSystem_FP.vcxproj|solutionrelative:Proj_BankSystem_FP\\Proj_BankSystem_FP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Proj_BankSystem_FP.cpp",
+              "DocumentMoniker": "C:\\Users\\ABDELLAH\\Desktop\\Formation e learning\\Partage sur GitHub\\Repositories\\Projects\\05_Bank_Sytem_(Using_Functional_Programming)\\Sol_BankSystem_(Using_FP)\\Proj_BankSystem_FP\\Proj_BankSystem_FP.cpp",
+              "RelativeDocumentMoniker": "Proj_BankSystem_FP\\Proj_BankSystem_FP.cpp",
+              "ToolTip": "C:\\Users\\ABDELLAH\\Desktop\\Formation e learning\\Partage sur GitHub\\Repositories\\Projects\\05_Bank_Sytem_(Using_Functional_Programming)\\Sol_BankSystem_(Using_FP)\\Proj_BankSystem_FP\\Proj_BankSystem_FP.cpp",
+              "RelativeToolTip": "Proj_BankSystem_FP\\Proj_BankSystem_FP.cpp",
+              "ViewState": "AgIAAB4GAAAAAAAAAAAwwCwGAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-31T15:13:10.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

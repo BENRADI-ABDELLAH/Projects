@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ABDELLAH\\Desktop\\Formation e learning\\Partage sur GitHub\\Repositories\\Projects\\09_Period_Class\\Solution_Period_Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3588B88-1619-4723-9017-6F6068390795}|Project_Period_Class\\Project_Period_Class.vcxproj|C:\\Users\\ABDELLAH\\Desktop\\Formation e learning\\Partage sur GitHub\\Repositories\\Projects\\09_Period_Class\\Solution_Period_Class\\Project_Period_Class\\Project_Period_Class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3588B88-1619-4723-9017-6F6068390795}|Project_Period_Class\\Project_Period_Class.vcxproj|solutionrelative:Project_Period_Class\\Project_Period_Class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project_Period_Class.cpp",
+              "DocumentMoniker": "C:\\Users\\ABDELLAH\\Desktop\\Formation e learning\\Partage sur GitHub\\Repositories\\Projects\\09_Period_Class\\Solution_Period_Class\\Project_Period_Class\\Project_Period_Class.cpp",
+              "RelativeDocumentMoniker": "Project_Period_Class\\Project_Period_Class.cpp",
+              "ToolTip": "C:\\Users\\ABDELLAH\\Desktop\\Formation e learning\\Partage sur GitHub\\Repositories\\Projects\\09_Period_Class\\Solution_Period_Class\\Project_Period_Class\\Project_Period_Class.cpp",
+              "RelativeToolTip": "Project_Period_Class\\Project_Period_Class.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-31T14:06:11.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

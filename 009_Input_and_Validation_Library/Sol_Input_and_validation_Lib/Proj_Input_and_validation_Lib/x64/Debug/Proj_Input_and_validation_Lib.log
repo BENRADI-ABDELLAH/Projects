@@ -1,0 +1,20 @@
+﻿  Proj_Input_and_validation_Lib.cpp
+C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\11_Input_and_Validation_Library\Sol_Input_and_validation_Lib\Proj_Input_and_validation_Lib\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Proj_Input_and_validation_Lib.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\11_Input_and_Validation_Library\Sol_Input_and_validation_Lib\Proj_Input_and_validation_Lib\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Proj_Input_and_validation_Lib.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\11_Input_and_Validation_Library\Sol_Input_and_validation_Lib\Proj_Input_and_validation_Lib\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Proj_Input_and_validation_Lib.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\11_Input_and_Validation_Library\Sol_Input_and_validation_Lib\Proj_Input_and_validation_Lib\clsString.h(197,28): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Proj_Input_and_validation_Lib.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\11_Input_and_Validation_Library\Sol_Input_and_validation_Lib\Proj_Input_and_validation_Lib\clsString.h(328,28): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Proj_Input_and_validation_Lib.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\11_Input_and_Validation_Library\Sol_Input_and_validation_Lib\Proj_Input_and_validation_Lib\clsString.h(376,20): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Proj_Input_and_validation_Lib.cpp')
+  
+  Proj_Input_and_validation_Lib.vcxproj -> C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\11_Input_and_Validation_Library\Sol_Input_and_validation_Lib\x64\Debug\Proj_Input_and_validation_Lib.exe

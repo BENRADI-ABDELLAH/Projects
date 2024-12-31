@@ -1,0 +1,20 @@
+﻿  Project_Period_Class.cpp
+C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\09_Period_Class\Solution_Period_Class\Project_Period_Class\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project_Period_Class.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\09_Period_Class\Solution_Period_Class\Project_Period_Class\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project_Period_Class.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\09_Period_Class\Solution_Period_Class\Project_Period_Class\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project_Period_Class.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\09_Period_Class\Solution_Period_Class\Project_Period_Class\clsString.h(197,28): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project_Period_Class.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\09_Period_Class\Solution_Period_Class\Project_Period_Class\clsString.h(328,28): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project_Period_Class.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\09_Period_Class\Solution_Period_Class\Project_Period_Class\clsString.h(376,20): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project_Period_Class.cpp')
+  
+  Project_Period_Class.vcxproj -> C:\Users\ABDELLAH\Desktop\Formation e learning\Partage sur GitHub\Repositories\Projects\09_Period_Class\Solution_Period_Class\x64\Debug\Project_Period_Class.exe
